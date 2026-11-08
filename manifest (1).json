@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chernobyl game",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Chernobyl_radioactive",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Chernobylgame",
+  "description": "this game created claude ai"
+}
